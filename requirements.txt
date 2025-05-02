@@ -1,3 +1,4 @@
 streamlit
-requests
-sklearn
+pandas
+scikit-learn
+openai
